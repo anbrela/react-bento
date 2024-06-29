@@ -1,4 +1,4 @@
 import "./styles/globals.css";
 
-
-export {default as Button} from "./components/button";
+export * from "./components/bento-grid";
+export * from "./types";

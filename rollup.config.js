@@ -25,7 +25,12 @@ export default {
     external(),
     resolve(),
     commonjs(),
-    typescript({ tsconfig: "./tsconfig.json" }),
+    typescript({
+      tsconfig: "./tsconfig.json",
+      declaration: true,
+      declarationDir: "./dist/types",
+      rootDir: "src",
+    }),
     postcss({
       plugins: [tailwindcss(), autoprefixer()],
       extensions: [".css"],
