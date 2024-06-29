@@ -1,5 +1,7 @@
 ![React bento](public/react_bento.png)
 
+`react-bento` is a component library for creating dynamic and flexible layouts inspired by Bento box design. It allows you to organize items in a grid with support for custom dimensions, colors, and more.
+
 # Real example
 
 ![Example](public/example.png)
@@ -7,10 +9,6 @@
 Puedes ver el ejemplo real [aquí](https://www.pablonaveira.dev)
 
 # Getting started
-
-`react-bento` is a component library for creating dynamic and flexible layouts inspired by Bento box design. It allows you to organize items in a grid with support for custom dimensions, colors, and more.
-
-## Installation
 
 Install the library using npm or yarn:
 
