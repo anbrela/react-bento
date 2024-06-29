@@ -30,7 +30,6 @@ Here is an example of how to use `react-bento`:
 
 ```javascript
 import { BentoGrid } from "react-bento";
-import "react-bento/dist/index.css"; // Ensure you import the CSS file
 ```
 
 ### Define Your Items
