@@ -6,7 +6,7 @@
 
 ![Example](public/example.png)
 
-Puedes ver el ejemplo real [aquí](https://www.pablonaveira.dev)
+You can see the real example [here](https://www.pablonaveira.dev)
 
 # Getting started
 
